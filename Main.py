@@ -6,7 +6,7 @@ except:
     import os
     os.system("pip install pyTelegramBotAPI")
 from telebot import *
-from GET import Tele
+from get import Tele
 from colorama import Fore
 sto = {"stop":False}
 token = "6360386788:AAFysliwXvtxc1A8iKBuM--UTRpONPcwuN4" 
